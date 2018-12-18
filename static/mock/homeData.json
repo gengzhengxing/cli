@@ -1,0 +1,355 @@
+{
+    "hotlist": [
+        {
+            "id": 19,
+            "lab": "http://img1.qunarzz.com/piao/fusion/1710/ab/159673b63e6ca702.png",
+            "img": "http://img1.qunarzz.com/sight/p0/1505/2e/2eb25cce70d82954.water.jpg_250x250_4f1ff835.jpg",
+            "site": "乾陵",
+            "price": 70
+        },
+        {
+            "id": 20,
+            "lab": "http://img1.qunarzz.com/piao/fusion/1710/2d/36d0c4adaebbbc02.png",
+            "img": "http://img1.qunarzz.com/sight/p0/1505/31/31008ea4c8ebd546.water.jpg_250x250_a2feac59.jpg",
+            "site": "汉阳陵博物馆",
+            "price": 50
+        },
+        {
+            "id": 21,
+            "lab": "http://img1.qunarzz.com/piao/fusion/1710/67/edc47ffef9e96b02.png",
+            "img": "http://img1.qunarzz.com/sight/p0/201301/05/129b8cd36466c12e93835fbb.png_250x250_585f0aa8.png",
+            "site": "西北农林科技大学博览园",
+            "price": 27
+        },
+        {
+            "id": 22,
+            "lab": "",
+            "img": "http://img1.qunarzz.com/sight/p0/1411/9d/d74294e6031d93218b9ccfa621926d25.water.jpg_250x250_e993bb61.jpg",
+            "site": "咸阳海泉湾温泉世界",
+            "price": 148
+        },
+        {
+            "id": 23,
+            "lab": "",
+            "img": "http://img1.qunarzz.com/sight/p0/1505/b0/b093339694db4a11.water.jpg_250x250_7b1cfb31.jpg",
+            "site": "张裕瑞那城堡酒庄",
+            "price": 96
+        },
+        {
+            "id": 24,
+            "lab": "",
+            "img": "http://img1.qunarzz.com/sight/p0/1411/5a/6dae7329dfb006893719e958f7e274a9.water.jpg_250x250_3e8a810c.jpg",
+            "site": "茂陵博物馆",
+            "price": 50
+        },
+        {
+            "id": 25,
+            "lab": "",
+            "img": "http://img1.qunarzz.com/sight/p0/1606/d2/d25becf22ed8c26ee2.water.jpg_250x250_05b51a50.jpg",
+            "site": "蓝波湾温泉水世界",
+            "price": 68
+        },
+        {
+            "id": 26,
+            "lab": "",
+            "img": "http://img1.qunarzz.com/sight/p0/1805/93/93316ef975272467a3.img.png_250x250_c5d950e1.png",
+            "site": "跃趣蹦床运动工厂",
+            "price": 89
+        },
+        {
+            "id": 27,
+            "lab": "",
+            "img": "http://img1.qunarzz.com/sight/p0/201403/10/896a38118838b3d46a5a355020920a0d.jpg_250x250_6e054fd4.jpg",
+            "site": "咸阳湖景区",
+            "price": 25
+        },
+        {
+            "id": 28,
+            "lab": "",
+            "img": "http://img1.qunarzz.com/sight/p0/1707/85/8587a901385d27fca3.img.jpg_250x250_263690e2.jpg",
+            "site": "华韵温泉",
+            "price": 29.9
+        }
+    ],
+    "likelist": [
+        {
+            "id": 0,
+            "href": "http://touch.piao.qunar.com/touch/detail.htm?id=1504427192&from=as_recommend_sight",
+            "lab": "https://img1.qunarzz.com/piao/fusion/1802/20/2ba6d10b17972e02.png",
+            "labtit": "随买随用",
+            "img": "http://img1.qunarzz.com/sight/p0/1505/b0/b093339694db4a11.water.jpg_200x200_10f65a8e.jpg",
+            "title": "张裕瑞那城堡酒庄",
+            "count": 1898,
+            "score": 5,
+            "address": "渭城区",
+            "price": 96,
+            "adv": ""
+        },
+        {
+            "id": 1,
+            "href": "http://touch.piao.qunar.com/touch/detail.htm?id=441556452&from=as_recommend_sight",
+            "lab": "https://img1.qunarzz.com/piao/fusion/1802/52/b9080e45b69b4f02.png",
+            "labtit": "可订明日",
+            "img": "http://img1.qunarzz.com/sight/p0/1505/2e/2eb25cce70d82954.water.jpg_200x200_dd8cb4f2.jpg",
+            "title": "乾陵",
+            "count": 3515,
+            "score": 5,
+            "address": "乾县",
+            "price": 70,
+            "adv": ""
+        },
+        {
+            "id": 2,
+            "href": "http://touch.piao.qunar.com/touch/detail.htm?id=1504427192&from=as_recommend_sight",
+            "lab": "",
+            "labtit": "",
+            "img": "http://img1.qunarzz.com/sight/p0/1411/9d/d74294e6031d93218b9ccfa621926d25.water.jpg_200x200_bb991fa2.jpg",
+            "title": "咸阳海泉湾温泉世界",
+            "count": 813,
+            "score": 5,
+            "address": "秦都区",
+            "price": 148,
+            "adv": "帅的人都去过了😎，你还等什么~"
+        },
+        {
+            "id": 3,
+            "href": "http://touch.piao.qunar.com/touch/detail.htm?id=2735337684&from=as_recommend_sight",
+            "lab": "https://img1.qunarzz.com/piao/fusion/1802/20/2ba6d10b17972e02.png",
+            "labtit": "随买随用",
+            "img": "http://img1.qunarzz.com/sight/p0/1411/5a/6dae7329dfb006893719e958f7e274a9.water.jpg_200x200_2e291876.jpg",
+            "title": "茂陵博物馆",
+            "count": 576,
+            "score": 5,
+            "address": "兴平市",
+            "price": 50,
+            "adv": ""
+        },
+        {
+            "id": 4,
+            "href": "http://touch.piao.qunar.com/touch/detail.htm?id=2059398113&from=as_recommend_sight",
+            "lab": "https://img1.qunarzz.com/piao/fusion/1802/20/2ba6d10b17972e02.png",
+            "labtit": "随买随用",
+            "img": "http://img1.qunarzz.com/sight/p0/1505/31/31008ea4c8ebd546.water.jpg_200x200_68c67c0b.jpg",
+            "title": "汉阳陵博物馆",
+            "count": 1521,
+            "score": 5,
+            "address": "秦都区",
+            "price": 50,
+            "adv": "这里最近很火哦，好多人都在点评它呢！"
+        },
+        {
+            "id": 5,
+            "href": "http://touch.piao.qunar.com/touch/detail.htm?id=806082867&from=as_recommend_sight",
+            "lab": "",
+            "labtit": "",
+            "img": "http://img1.qunarzz.com/sight/p0/1710/3b/3bd09821901efad5a3.img.jpg_200x200_1c934f6f.jpg",
+            "title": "侍郎湖",
+            "count": 64,
+            "score": 5,
+            "address": "彬县",
+            "price": 19.9,
+            "adv": ""
+        },
+        {
+            "id": 6,
+            "href": "http://touch.piao.qunar.com/touch/detail.htm?id=3506890410&from=as_recommend_sight",
+            "lab": "",
+            "labtit": "",
+            "img": "http://img1.qunarzz.com/sight/p0/201304/09/3005b70fe5a65773c8d65eac.jpg_200x200_837f52ee.jpg",
+            "title": "郑国渠",
+            "count": 33,
+            "score": 4.5,
+            "address": "泾阳县",
+            "price": 45,
+            "adv": ""
+        },
+        {
+            "id": 7,
+            "href": "http://touch.piao.qunar.com/touch/detail.htm?id=68624704&from=as_recommend_sight",
+            "lab": "",
+            "labtit": "",
+            "img": "http://img1.qunarzz.com/sight/p0/201403/10/896a38118838b3d46a5a355020920a0d.jpg_200x200_dc0a367e.jpg",
+            "title": "咸阳湖景区",
+            "count": 115,
+            "score": 4.7,
+            "address": "秦都区",
+            "price": 25,
+            "adv": ""
+        },
+        {
+            "id": 8,
+            "href": "http://touch.piao.qunar.com/touch/detail.htm?id=3316447666&from=as_recommend_sight",
+            "lab": "https://img1.qunarzz.com/piao/fusion/1802/20/2ba6d10b17972e02.png",
+            "labtit": "随买随用",
+            "img": "http://img1.qunarzz.com/sight/p0/1806/39/399ac563bb1f68d7a3.img.jpg_200x200_1b0e36ec.jpg",
+            "title": "袁家村·关中大观园",
+            "count": 36,
+            "score": 5,
+            "address": "礼泉县",
+            "price": 20,
+            "adv": ""
+        },
+        {
+            "id": 9,
+            "href": "http://touch.piao.qunar.com/touch/detail.htm?id=1489199525&from=as_recommend_sight",
+            "lab": "",
+            "labtit": "",
+            "img": "http://img1.qunarzz.com/sight/p0/1807/46/469bff659a3f82cea3.img.jpg_200x200_54795169.jpg",
+            "title": "姜嫄水乡",
+            "count": 2,
+            "score": 5,
+            "address": "咸阳",
+            "price": 8,
+            "adv": ""
+        },
+        {
+            "id": 10,
+            "href": "http://touch.piao.qunar.com/touch/detail.htm?id=3492208249&from=as_recommend_sight",
+            "lab": "",
+            "labtit": "",
+            "img": "http://img1.qunarzz.com/sight/p0/1606/d2/d25becf22ed8c26ee2.water.jpg_200x200_b726528e.jpg",
+            "title": "蓝波湾温泉水世界",
+            "count": 128,
+            "score": 5,
+            "address": "咸阳",
+            "price": 68,
+            "adv": ""
+        },
+        {
+            "id": 11,
+            "href": "http://touch.piao.qunar.com/touch/detail.htm?id=3564069424&from=as_recommend_sight",
+            "lab": "",
+            "labtit": "",
+            "img": "http://img1.qunarzz.com/sight/p0/1805/93/93316ef975272467a3.img.png_200x200_ae038519.png",
+            "title": "跃趣蹦床运动工厂",
+            "count": 53,
+            "score": 5,
+            "address": "秦都区",
+            "price": 89,
+            "adv": "近期小伙伴们收藏最！多！的景点😊"
+        },
+        {
+            "id": 12,
+            "href": "http://touch.piao.qunar.com/touch/detail.htm?id=145601106&from=as_recommend_sight",
+            "lab": "",
+            "labtit": "",
+            "img": "http://img1.qunarzz.com/sight/p0/1802/f8/f8e6406d05c03e08a3.water.jpg_200x200_aeb8ae49.jpg",
+            "title": "安吴堡",
+            "count": 1,
+            "score": 3,
+            "address": "泾阳县",
+            "price": 98,
+            "adv": ""
+        },
+        {
+            "id": 13,
+            "href": "http://touch.piao.qunar.com/touch/detail.htm?id=3614334989&from=as_recommend_sight",
+            "lab": "",
+            "labtit": "",
+            "img": "http://img1.qunarzz.com/sight/p0/1703/57/5794796148ac680da3.img.png_200x200_0cf91d82.png",
+            "title": "乐华城•乐华欢乐世界",
+            "count": 6249,
+            "score": 4.9,
+            "address": "泾阳县",
+            "price": 200,
+            "adv": ""
+        },
+        {
+            "id": 14,
+            "href": "http://touch.piao.qunar.com/touch/detail.htm?id=533366560&from=as_recommend_sight",
+            "lab": "https://img1.qunarzz.com/piao/fusion/1802/20/2ba6d10b17972e02.png",
+            "labtit": "随买随用",
+            "img": "http://img1.qunarzz.com/sight/p0/201301/05/129b8cd36466c12e93835fbb.png_200x200_6f200759.png",
+            "title": "西北农林科技大学博览园",
+            "count": 323,
+            "score": 4.7,
+            "address": "杨凌区",
+            "price": 27,
+            "adv": "👍小伙伴们都收藏了，去看看吧~"
+        },
+        {
+            "id": 15,
+            "href": "http://touch.piao.qunar.com/touch/detail.htm?id=2104516856&from=as_recommend_sight",
+            "lab": "",
+            "labtit": "",
+            "img": "http://img1.qunarzz.com/sight/p0/201403/07/37d460397e3639447bcec4b747789763.jpg_200x200_4da983ee.jpg",
+            "title": "昭陵博物馆",
+            "count": 91,
+            "score": 5,
+            "address": "礼泉县",
+            "price": 25,
+            "adv": ""
+        },
+        {
+            "id": 16,
+            "href": "http://touch.piao.qunar.com/touch/detail.htm?id=2482633706&from=as_recommend_sight",
+            "lab": "",
+            "labtit": "",
+            "img": "http://img1.qunarzz.com/sight/p0/1703/13/13f5ef4857706273a3.water.jpg_200x200_50ba2a87.jpg",
+            "title": "宏兴滑草滑雪体验基地",
+            "count": null,
+            "score": 0,
+            "address": "兴平市",
+            "price": 26,
+            "adv": "体验旱地滑雪、彩虹滑道滑草等项目"
+        },
+        {
+            "id": 17,
+            "href": "http://touch.piao.qunar.com/touch/detail.htm?id=2448087962&from=as_recommend_sight",
+            "lab": "",
+            "labtit": "",
+            "img": "http://img1.qunarzz.com/sight/p0/1611/21/218bed923f3eda3ba3.water.jpg_200x200_a515d336.jpg",
+            "title": "唐昭陵",
+            "count": 86,
+            "score": 4.5,
+            "address": "礼泉县",
+            "price": 25,
+            "adv": ""
+        },
+        {
+            "id": 18,
+            "href": "http://touch.piao.qunar.com/touch/detail.htm?id=823637372&from=as_recommend_sight",
+            "lab": "",
+            "labtit": "",
+            "img": "http://img1.qunarzz.com/sight/p0/1707/85/8587a901385d27fca3.img.jpg_200x200_f7089b4f.jpg",
+            "title": "华韵温泉",
+            "count": 6,
+            "score": 5,
+            "address": "兴平市",
+            "price": 29.9,
+            "adv": "一家大型园林式生态温泉度假山庄"
+        }
+    ],
+    "weekendlist": [
+        {
+            "id": 0,
+            "src": "http://img1.qunarzz.com/sight/source/1505/74/98a840f2a881b.jpg_r_640x214_1bf94c8e.jpg",
+            "title": "西安温泉季",
+            "introduce": "养生、养性、养心的理想之地，曲径通幽，鸟语花香，让您在远离喧嚣之地享受终南隐士生活。"
+        },
+        {
+            "id": 1,
+            "src": "http://img1.qunarzz.com/sight/source/1606/fa/1fca5cab2918f0.jpg_r_640x214_6902e556.jpg",
+            "title": "咸阳必游TOP10",
+            "introduce": "秦汉文化重要发祥地"
+        },
+        {
+            "id": 2,
+            "src": "http://img1.qunarzz.com/sight/source/1506/26/5e8fad4a4a4be2.jpg_r_640x214_8d055589.jpg",
+            "title": "山外有山",
+            "introduce": "这里曾是太乙真人修炼地，唐王李世民的避暑消夏胜地，山清水秀、景色如画、气候凉爽"
+        },
+        {
+            "id": 3,
+            "src": "http://img1.qunarzz.com/sight/source/1511/14/1cf5dc2ecbfc16.jpg_r_640x214_b4b3a58a.jpg",
+            "title": "醉美丝路行",
+            "introduce": "情系西北，中国梦丝路行"
+        },
+        {
+            "id": 4,
+            "src": "http://img1.qunarzz.com/sight/source/1509/1c/6067358591f975.jpg_r_640x214_df0e5390.jpg",
+            "title": "那些不能忘却的古镇",
+            "introduce": "陕西的丽江，这里有丰富的历史文化资源，古老石砌的巷道，诉说着往日的兴盛与辉煌"
+        }
+    ]
+}
